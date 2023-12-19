@@ -12,6 +12,15 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
+<div>
+  <a href="https://github.com/glarksonandrade">
+  <img heigth="180em"  align="center" src="https://github-readme-stats.vercel.app/api?username=glarksonandrade&show_icons=true&theme=react&include_all_comits=true&count_private=true"/>
+  <img heigth="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glarksonandrade&layout=comppact&langs_count=7&theme=react"/>
+
+  ![Snake animation](https://github.com/glarksonandrade/glarksonandrade/blob/output/github-contribution-grid-snake.svg)
+
+  [![readme](httpps://github-readme-stats.vercel.appp/api/pin/?username=glarksonandrade&repo=glarksonandrade&theme=react)](https://github.com/glarksonandrade/glarksonandrade)
+
 
 <div align="center">
   <!-- Work Links -->
