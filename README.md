@@ -6,12 +6,20 @@
     <img alt="Glarkson Andrade" src="https://readme-typing-svg.herokuapp.com/?lines=Glarkson+Andrade;&font=Fira%20Code&width=270&height=45&color=68C3D4&vCenter=true&size=27"></a>
   </div>
 
-
-
-
-
-  ![Snake animation](https://github.com/glarksonandrade/glarksonandrade/blob/output/github-contribution-grid-snake.svg)
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/glarksonandrade/glarksonandrade/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/glarksonandrade/glarksonandrade/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/glarksonandrade/glarksonandrade/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 <div align="center">
   <!-- Work Links -->
