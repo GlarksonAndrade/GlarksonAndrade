@@ -6,6 +6,13 @@
     <img alt="Glarkson Andrade" src="https://readme-typing-svg.herokuapp.com/?lines=Glarkson+Andrade;&font=Fira%20Code&width=270&height=45&color=68C3D4&vCenter=true&size=27"></a>
   </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
+
 <div align="center">
   <!-- Work Links -->
   <a href="https://github.com/glarksonandrade" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
