@@ -1,8 +1,7 @@
-
-
 ### Hi 👋, I'm <img align="right" src="https://komarev.com/ghpvc/?username=glarksonandrade&color=68C3D4"><br>
 <div align="center">
   <a href="https://github.com/glarksonandrade">
+  </div>
   <div align="center">
     <img alt="Glarkson Andrade" src="https://readme-typing-svg.herokuapp.com/?lines=Glarkson+Andrade;&font=Fira%20Code&width=270&height=45&color=68C3D4&vCenter=true&size=27"></a>
   </div>
@@ -25,19 +24,47 @@
   <!a href="https://open.spotify.com/playlist/3TNMcoGu5xhkUNgd5EXPqv?si=hwLhcHGPT8qoLAdftQ8ELA" target="_blank"><!img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"target="_blank"></a>
   <!a href="https://steamcommunity.com/id/prinsycho" target="_blank"><!img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 </div><br>
+    
+## ⭐️ Sobre mim
 
-<div align="left">
-⭐️ Sobre mim
-
-Sou formado em <b>Redes de Computadores</b> pela IPESU (2017) e atualmente exerço o cargo de <b>Tecnico de Sistemas, </b> na Montreal Informática. Atuando há 6 anos na área de suporte, implementação e análise de problemas no sistema de gerenciamento hospitalar SoulMV e MVpep e em processo de migração de infra para dev aproveito o ghub para acompanhar meu crescimento na área. Atualmente estou estudando Java e venho trazer repositórios sobre.
+<div align="justify"> 
+  Sou formado em <b>Redes de Computadores</b> pela IPESU (2017) e atualmente exerço o cargo de <b>Tecnico de Sistemas, </b> na Montreal Informática. Atuando há 6 anos na área de suporte, implementação e análise de problemas no sistema de gerenciamento hospitalar SoulMV e MVpep e em processo de migração de infra para dev aproveito o ghub para acompanhar meu crescimento na área. Atualmente estou estudando Java e venho trazer repositórios sobre.</p>
 </div><br>
 
-<div align="left">
-⭐️ Em apredizado
 
-<div align="left">
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg??style=for-the-badge&logo=openjdk&logoColor=ED1D25">
+## ⭐️ Em apredizado
+<p>
+<div align="center">
+<img src="https://img.shields.io/badge/Java-red.svg??style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Github-black.svg??style=for-the-badge&logo=github&logoColor=white">
 </div><br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td><b>🎓 Suporte de Sistemas em ação </b></td>
+      <td><b>🧪 Desenvolvedor em Construção</b></td>
+    </tr>
+  </table>
+  <div>
+
+    
+<div align="left">
+
+## ⭐️ Lazer
+
+- Amo música....
+- Meu hobby é tocar Contrabaixo.....
+- Filmes? De commédia......
+- Jogos de estratégia, FPS e MMORPG.... 
+- Reunir com amigos......
+
+## ⭐️ Projetos Futuros
+
+- Pós Graduação
+- Desenvolvedor Full Stack
+- Scrum Master
+- Viagem ao exterior
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=glarksonandrade&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=glarksonandrade&hide=Html&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=glarksonandrade&theme=dark) |
 | :-: | :-: | :-: |
