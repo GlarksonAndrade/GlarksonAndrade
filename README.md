@@ -1,11 +1,11 @@
 
 
-<img align="right" src="https://komarev.com/ghpvc/?username=glarksonandrade&color=68C3D4"><br>
+### Hi 👋, I'm <img align="right" src="https://komarev.com/ghpvc/?username=glarksonandrade&color=68C3D4"><br>
 <div align="center">
   <a href="https://github.com/glarksonandrade">
   <div align="center">
     <img alt="Glarkson Andrade" src="https://readme-typing-svg.herokuapp.com/?lines=Glarkson+Andrade;&font=Fira%20Code&width=270&height=45&color=68C3D4&vCenter=true&size=27"></a>
-
+  </div>
 
 <div align="center">
   <!-- Work Links -->
@@ -24,21 +24,30 @@
   <!a href="https://trustinthesky.tumblr.com/" target="_blank"><!img src="https://img.shields.io/badge/Tumblr-34526f?style=for-the-badge&logo=tumblr&logoColor=white"></a>
   <!a href="https://open.spotify.com/playlist/3TNMcoGu5xhkUNgd5EXPqv?si=hwLhcHGPT8qoLAdftQ8ELA" target="_blank"><!img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"target="_blank"></a>
   <!a href="https://steamcommunity.com/id/prinsycho" target="_blank"><!img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
-</div>
+</div><br>
 
-<div align="center">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<div align="left">
+⭐️ Sobre mim
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=glarksonandrade&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=glarksonandrade&hide=Html&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=glarksonandrade&theme=tokyonight) |
+Sou formado em <b>Redes de Computadores</b> pela IPESU (2017) e atualmente exerço o cargo de <b>Tecnico de Sistemas, </b> na Montreal Informática. Atuando há 6 anos na área de suporte, implementação e análise de problemas no sistema de gerenciamento hospitalar SoulMV e MVpep e em processo de migração de infra para dev aproveito o ghub para acompanhar meu crescimento na área. Atualmente estou estudando Java e venho trazer repositórios sobre.
+</div><br>
+
+<div align="left">
+⭐️ Em apredizado
+
+<div align="left">
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg??style=for-the-badge&logo=openjdk&logoColor=ED1D25">
+</div><br>
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=glarksonandrade&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=glarksonandrade&hide=Html&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=glarksonandrade&theme=dark) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=glarksonandrade&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com/?user=glarksonandrade&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=glarksonandrade&theme=dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=glarksonandrade&theme=dark) |
 | :-: | :-: |
 <!-- 
 theme=ocean_dark 
 tokyonight: 35AFA3 Green | BF91F3 Purple | 1A1B27 Dark 
 -->
-### Hi 👋, I'm 
 <!--
 **GlarksonAndrade/GlarksonAndrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
