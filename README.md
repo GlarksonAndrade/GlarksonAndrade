@@ -9,7 +9,7 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/glarksonandrade/glarksonandrade/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/glarksonandrade/glarksonandrade/output/github-contribution-grid-snake-dark.svg"  
   />
   <source
     media="(prefers-color-scheme: light)"
@@ -19,7 +19,7 @@
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/glarksonandrade/glarksonandrade/output/github-contribution-grid-snake.svg"
   />
-</picture>
+</picture> <img src="https://66.media.tumblr.com/tumblr_macx4vgB5f1rfjowdo1_500.gif"  width="90" align="right" alt="r2d2" />
 
 <div align="center">
   <!-- Work Links -->
@@ -58,7 +58,7 @@
   <table>
     <tr>
       <td><b>🎓 Suporte de Sistemas em ação </b></td>
-      <td><b>🧪 Desenvolvedor em Construção</b></td>
+      <td><b>🧪 Desenvolvedor em Construção</b></td>   
     </tr>
   </table>
   <div>
