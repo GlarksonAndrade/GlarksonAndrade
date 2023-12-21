@@ -52,6 +52,7 @@
 <div align="center">
 <img src="https://img.shields.io/badge/Java-red.svg??style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/Github-black.svg??style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/IntelliJ-IDEA-black?style=plastico&logo=Intellij-idea&logoColor=white">
 </div><br>
 
 <div align="center">
