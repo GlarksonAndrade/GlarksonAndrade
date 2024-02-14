@@ -82,7 +82,7 @@
 - Scrum Master
 - Viagem ao exterior
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=glarksonandrade&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=glarksonandrade&hide=Html&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=glarksonandrade&theme=dark) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=glarksonandrade&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=glarksonandrade&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=glarksonandrade&theme=dark) |
 | :-: | :-: | :-: |
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=glarksonandrade&theme=dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=glarksonandrade&theme=dark) |
